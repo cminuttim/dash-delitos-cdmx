@@ -29,4 +29,5 @@ Ejecutar `python dash_delitos_cdmx.py`
 [cdmx2.png](cdmx2.png): Mapa de la CDMX para la proyección de las curvas de riesgo.	
 
 [dash_delitos.mp4](dash_delitos.mp4): Vídeo del funcionamiento del sistema web.
+
 [dash_delitos.mp4](dash.jpg): Captura de pantalla del sistema web funcionando.
