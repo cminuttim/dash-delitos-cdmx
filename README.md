@@ -11,7 +11,7 @@ En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modela
 
 **Número**: 7051.
 
-**Objetivo**: Definir las bases de interoperabilidad para  homologar  la información de las bases de datos de salud , y  obtener datos precisos y confiables, que permitan tener series históricas  y generar la trazabilidad de los pacientes, en especial de aquellos que padecen enfermedades crónicas no transmisibles, así como la construcción de indicadores de salud y su relación con la exposición a contaminantes atmosféricos. 
+**Objetivo**: Definir las bases de interoperabilidad para homologar la información de las bases de datos de salud, y  obtener datos precisos y confiables, que permitan tener series históricas  y generar la trazabilidad de los pacientes, en especial de aquellos que padecen enfermedades crónicas no transmisibles, así como la construcción de indicadores de salud y su relación con la exposición a contaminantes atmosféricos. 
 
 ## Datos abiertos utilizados:
 [Carpetas de investigación PGJ](https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-pgj-cdmx)
