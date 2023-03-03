@@ -6,8 +6,8 @@ La modelización del riesgo de delitos es un aspecto importante en la prevenció
 
 En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modelar el riesgo espacio-temporal de diferentes tipos de delitos en la Ciudad de México, lo que puede contribuir a la toma de decisiones informadas en materia de prevención y control del crimen en la ciudad. 
 
-**Proyecto CONACyT**: Observatorio de datos para descubrimientos de patrones Sociales-EspacioTemporales en Salud, Movilidad y Calidad del Aire 
-**Número**: 7051
+**Proyecto CONACyT**: Observatorio de datos para descubrimientos de patrones Sociales-EspacioTemporales en Salud, Movilidad y Calidad del Aire.
+**Número**: 7051.
 **Objetivo**: Definir las bases de interoperabilidad para  homologar  la información de las bases de datos de salud , y  obtener datos precisos y confiables, que permitan tener series históricas  y generar la trazabilidad de los pacientes, en especial de aquellos que padecen enfermedades crónicas no transmisibles, así como la construcción de indicadores de salud y su relación con la exposición a contaminantes atmosféricos. 
 
 ## Datos abiertos utilizados:
