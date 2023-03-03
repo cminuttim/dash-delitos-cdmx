@@ -27,7 +27,7 @@ Ejecutar `python dash_delitos_cdmx.py`
 [Archivo requirements.txt](requirements.txt)
 
 ### Lista de archivos
-[dash_delitos_cdmx.py](dash_delitos_cdmx.py]): Código Python para el sistema web de modelado de riesgo de delitos.
+[dash_delitos_cdmx.py](dash_delitos_cdmx.py): Código Python para el sistema web de modelado de riesgo de delitos.
 
 [delitos.sqlite](delitos.sqlite): Base de datos de delitos en formato SQLite.
 
