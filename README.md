@@ -32,4 +32,4 @@ Ejecutar `python dash_delitos_cdmx.py`
 
 [dash_delitos.mp4](dash_delitos.mp4): Vídeo del funcionamiento del sistema web.
 
-[dash_delitos.mp4](dash.jpg): Captura de pantalla del sistema web funcionando.
+[dash.jpg](dash.jpg): Captura de pantalla del sistema web funcionando.
