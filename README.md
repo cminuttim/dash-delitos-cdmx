@@ -1,5 +1,6 @@
 # Sistema web para la modelización del riesgo espacio-temporal de los patrones delictivos en la Ciudad de México
 El sistema web desarrollado tiene como objetivo modelar el riesgo espacio-temporal de diferentes tipos de delitos en la Ciudad de México mediante el uso de datos abiertos. Para ello, se utiliza un enfoque basado en mezclas gaussianas, que permite estimar el riesgo relativo de ocurrencia de un delito en un lugar determinado, para diferentes periodos de tiempo específicos.
+
 La exposición a la violencia y el delito puede causar estrés, ansiedad, depresión y otros problemas de salud mental, así como lesiones físicas. Además, la inseguridad puede limitar el acceso a servicios de atención médica y la capacidad de realizar actividades al aire libre, lo que puede afectar la salud de las personas.
 
 La modelización del riesgo de delitos es un aspecto importante en la prevención y control del crimen, y la técnica de mezclas gaussianas ha demostrado ser útil para analizar patrones complejos de datos espaciales y temporales. En este sentido, el sistema web permite a los usuarios visualizar mapas de riesgos, para ser utilizados en posibles análisis de tendencias y comparaciones entre diferentes tipos de delitos y áreas geográficas.
