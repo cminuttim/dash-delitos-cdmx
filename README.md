@@ -18,6 +18,8 @@ En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modela
 
 ## Uso
 Ejecutar `python dash_delitos_cdmx.py`
+
+
 ![Captura de pantalla del sistema web funcionando](dash.jpg)
 
 
