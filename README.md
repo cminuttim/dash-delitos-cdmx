@@ -17,7 +17,8 @@ En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modela
 [Carpetas de investigación PGJ](https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-pgj-cdmx)
 
 ## Uso
-Ejecutar `python dash_delitos_cdmx.py`
+1. Descargar y descomprimir la base de datos de delitos ([delitos.sqlite](https://minnova-consulting.com/cminutti/git/delitos.sqlite.zip)). 
+2. Ejecutar `python dash_delitos_cdmx.py`
 
 
 ![Captura de pantalla del sistema web funcionando](dash.jpg)
@@ -29,7 +30,7 @@ Ejecutar `python dash_delitos_cdmx.py`
 ### Lista de archivos
 [dash_delitos_cdmx.py](dash_delitos_cdmx.py): Código Python para el sistema web de modelado de riesgo de delitos.
 
-[delitos.sqlite](delitos.sqlite): Base de datos de delitos en formato SQLite.
+[delitos.sqlite](https://minnova-consulting.com/cminutti/git/delitos.sqlite.zip): Base de datos de delitos en formato SQLite.
 
 [cdmx2.png](cdmx2.png): Mapa de la CDMX para la proyección de las curvas de riesgo.	
 
