@@ -19,7 +19,7 @@ En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modela
 ## Uso
 1. Descargar y descomprimir la base de datos de delitos ([delitos.sqlite](https://minnova-consulting.com/cminutti/git/delitos.sqlite.zip)). 
 2. Ejecutar `pip install -r requirements.txt`
-2. Ejecutar `python dash_delitos_cdmx.py`
+2. Ejecutar `ipython dash_delitos_cdmx.py`
 
 
 ![Captura de pantalla del sistema web funcionando](dash.jpg)
