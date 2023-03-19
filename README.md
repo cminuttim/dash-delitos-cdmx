@@ -40,15 +40,16 @@ En resumen, el sistema web utiliza la técnica de mezclas gaussianas para modela
 [dash.jpg](dash.jpg): Captura de pantalla del sistema web funcionando.
 
 
-## Citar
+## Cita
 
+Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
 ```bibtex
-@software{dash-delitos-cdmx,
-  title = {{Sistema web para la modelización del riesgo espacio-temporal de los patrones delictivos en la Ciudad de México}},
+@misc{dash-delitos-cdmx,
   author = {Carlos Minutti},
-  url = {https://github.com/cminuttim/dash-delitos-cdmx/},
-  month = {3},
+  title = {Sistema web para la modelización del riesgo espacio-temporal de los patrones delictivos en la Ciudad de México},
   year = {2023},
-  version = {0.1},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/cminuttim/dash-delitos-cdmx}},
 }
 ```
